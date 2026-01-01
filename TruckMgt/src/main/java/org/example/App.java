@@ -4,6 +4,7 @@ import java.util.List;
 
 /**
  * Hello world!
+ *This is the main file of the application
  *
  */
 public class App 
